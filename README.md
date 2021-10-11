@@ -16,4 +16,4 @@
 >[All Releases](https://www.example.com)
 >
 >### Version 1.2 [v1.2]()
-> ` MD5 HASH:   `
+> ` MD5 HASH:   532e6d02a0ce66ae8d178c82d4690b81`
